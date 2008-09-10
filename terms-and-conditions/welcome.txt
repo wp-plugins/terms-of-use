@@ -1,0 +1,9 @@
+Thankyou, you are now a full member of %%WEBSITENAME%%
+
+<h2>What Now</h2>%%WEBSITENAME%% is packed with many amazing features. So now that you\'ve got an account, what should you do?
+
+<h2>Add your own message</h2>You can add some text and format it with HTML, no need to us paragraph div or breaks tags.
+
+<h2>Help Desk</h2>Wordpress Help Desk is a comprehensive integrated help desk and trouble ticketing system that helps site admin to support there users and resolve issues quickly. Users and support personnel can interact in real time to report, diagnose and resolve issues quickly and with as little pain ass possible.
+
+To download the free Wordpress Help Desk Plugin visit <a href=\"http://helpdesk.mmow.biz\">http://helpdesk.mmow.biz</a>
